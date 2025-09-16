@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Dlazder
-- 👀 I’m interested in web developing and Linux.
-- 🌱 I’m currently experimenting with Next.js and bash.
